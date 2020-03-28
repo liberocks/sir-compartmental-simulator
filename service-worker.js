@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sir-compartmental-simulator/precache-manifest.ef438b40474b4e6fed57212bd4ae19d4.js"
+  "/sir-compartmental-simulator/precache-manifest.6e04322a3b6af86f6c98b303e0dcedb0.js"
 );
 
 self.addEventListener('message', (event) => {
